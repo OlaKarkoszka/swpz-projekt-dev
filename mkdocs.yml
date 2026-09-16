@@ -1,0 +1,13 @@
+site_name: System Wspomagania Pracy Zespołowej
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: blue
+
+nav:
+  - Strona główna: index.md
+  - Temat i kierownik: temat.md
+  - Autorzy: autorzy.md
+  - Teoria i Bezpieczeństwo: teoria.md
+  - Przykłady: przyklady.md
